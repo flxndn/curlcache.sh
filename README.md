@@ -14,13 +14,13 @@ Local cache curl request.
 ## Options
 *  --cache-time minutes 
 
-*  Number of minutes for valid cache. 
+    Number of minutes for valid cache. 
 
-*  Default is 3600.
+    Default is 3600.
 
 *  -h | --help 
 
-*  Show this help.
+    Show this help.
 
 
 ## Description
