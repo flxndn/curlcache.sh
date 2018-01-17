@@ -17,8 +17,7 @@ cat <<HELP
 		> $PROGNAME -h|--help
 	* Options
 		- --cache-time minutes :: Number of minutes for valid cache. :: Default is $DEFAULT_MINUTES.
-		* -h | --help
-			Show this help.
+		- -h | --help :: Show this help.
 	* Description
 		Stores the result of the curl request and if it is repeated in less than minutes it is localment served.
 HELP

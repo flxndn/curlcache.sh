@@ -18,9 +18,9 @@ Local cache curl request.
 
 *  Default is 3600.
 
-### -h | --help
-Show this help.
+*  -h | --help 
 
+*  Show this help.
 
 
 ## Description
